@@ -2,8 +2,7 @@
 
 ## Benefits
 
-* ISAs are tax free. Any gains you make in your ISA are not taxed.
-* The gains (which compound over time) are not taxed at all.
+* ISAs are tax free. Any gains (which compound) are not taxed.
 * You can transfer your money out of an ISA at any time and spend it on anything you like. You can have your money within 5 working days.
 * Tax is so simple - it doesn't complicate tax return / require accountant assistance.
 
