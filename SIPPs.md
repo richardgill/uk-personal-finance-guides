@@ -61,7 +61,7 @@ Things to consider:
 * You're irreversibly at risk of government policy for `55 - your_age` years (or longer).
 * However politically making large negative changes would be unpopular with voters. 
 * Making things worse will increase the burden on the state to stop pensioners falling into poverty. So making it worse might cost government more money in welfare etc.
-* 4. and 5. will be unpopular with older people - a demographic which typically has strong turn-out in elections.
+* `4.` and `5.` will be unpopular with older people - a demographic which typically has strong turn-out in elections.
 * The risks are worse if you're young for two reasons: You have longer to endure policy changes. Young people don't vote as much or care about pensions as much.  
 
 ## Resources
