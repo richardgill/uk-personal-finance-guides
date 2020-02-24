@@ -24,9 +24,9 @@ SIPP_RELIEF = (£1 / (1 – 0.4)) - £1
 SIPP_RELIEF = £0.66
 ```
 
-* At 20% tax: every after-tax £ can be multipled by 1.25... 
-* At 40% tax: every after-tax £ can be multipled by 1.666666... 
-* At 45% tax: every after-tax £ can be multipled by 1.818181... 
+* At 20% tax: every after-tax £ can be multipled by `1.25...`
+* At 40% tax: every after-tax £ can be multipled by `1.666666...`
+* At 45% tax: every after-tax £ can be multipled by `1.818181...`
 
 ### Tax on withdrawl
 
@@ -50,18 +50,18 @@ When you withdraw your pension you can:
 
 ## Risks
 
-a) The amount you can invest per year could be lowered (or raised).
-b) Retirement age will change, it will likely go up. 
-c) Tax relief on the way in could change (this is ok, because you can just stop putting more money into it)
-d) Tax exemption of gains could change (this could affect all the money in your pension, which you can't take out!)
-e) Tax on withdrawl could (and is likely) to change. So you don't know how much you'll get taxed on withdrawl. 
+1. The amount you can invest per year could be lowered (or raised).
+2. Retirement age will change, it will likely go up. 
+3. Tax relief on the way in could change (this is ok, because you can just stop putting more money into it)
+4. Tax exemption of gains could change (this could affect all the money in your pension, which you can't take out!)
+5. Tax on withdrawl could (and is likely) to change. So you don't know how much you'll get taxed on withdrawl. 
 
 Things to consider:
 
 * You're irreversibly at risk of government policy for `55 - your_age` years (or longer).
 * However politically making large negative changes would be unpopular with voters. 
 * Making things worse will increase the burden on the state to stop pensioners falling into poverty. So making it worse might cost government more money in welfare etc.
-* d) and e) will be unpopular with older people - a demographic which typically has strong turn-out in elections.
+* 4. and 5. will be unpopular with older people - a demographic which typically has strong turn-out in elections.
 * The risks are worse if you're young for two reasons: You have longer to endure policy changes. Young people don't vote as much or care about pensions as much.  
 
 ## Resources
