@@ -17,9 +17,11 @@ Above your allowance you pay 10% capital gains tax if you're a lower rate tax pa
 
 ## Limitations
 
-None. 
-No max amount. 
-You'll need to file a more complex tax return / hire an accountant to do this for you.
+Not many limitations.
+
+* No max amount.
+* You can do transactions as often as you like. You can sell shares for cash whenever you like.
+* You'll need to file a more complex tax return / hire an accountant to do this for you.
 
 
 ## Resources
