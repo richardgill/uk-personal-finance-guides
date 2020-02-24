@@ -4,7 +4,7 @@ If you have a regular stocks and shares account in the UK (not an ISA).
 
 ## When you pay tax
 
-Then you will pay tax on any *realized* profits, when you sell your shares for cash.
+You pay tax on any *realized* profits. Typically, this is when you sell your shares for cash.
 
 ## Which tax you pay
 
